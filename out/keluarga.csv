@@ -1,0 +1,9 @@
+nik,nopeg_sk,nama_pegawai,subtype_family,tipe_keluarga,nama_keluarga,tanggal_lahir,jenis_kelamin,nik_pasangan,status,start_date,end_date
+00030557,7394130557,Budi Hartono,1,Pasangan (Istri/Suami),Ana Trisnawani,1980-10-14,P,00030999,1 Class 1,1975-02-10,9999-12-31
+00030557,7394130557,Budi Hartono,2,Anak,M. Farel Asyrofi,2001-10-30,L,NULL,3 Class 3,2000-01-01,9999-12-31
+00030557,7394130557,Budi Hartono,2,Anak,Muhammad Fadil Gymnastiar,2005-06-18,L,NULL,1 Class 1,2022-01-01,9999-12-31
+00030557,7394130557,Budi Hartono,2,Anak,Zaskya Aisyah,2008-08-16,P,NULL,1 Class 1,2024-01-01,9999-12-31
+00030557,7394130557,Budi Hartono,12,Ibu,Nurbaiti,1932-12-31,P,NULL,3 Class 3,1950-01-01,9999-12-31
+00030557,7394130557,Budi Hartono,22,Mertua Perempuan,Maimunah,1932-12-31,P,NULL,3 Class 3,1960-01-01,9999-12-31
+00030557,7394130557,Budi Hartono,21,Mertua Laki,M Syafe'i,1927-12-31,L,NULL,3 Class 3,1961-01-01,9999-12-31
+00030557,7394130557,Budi Hartono,11,Ayah,Usman,1927-12-31,L,NULL,3 Class 3,1962-01-01,9999-12-31
