@@ -27,10 +27,10 @@ BEGIN
 
     WITH hirarki AS (
         SELECT
-            hwdp.posisi_id_sap AS root,
-            hwdp.*,
+            bhr.posisi_id_sap AS root,
+            bhr.*,
             0 AS lvl
-        FROM view_base_hirarki hwdp
+        FROM view_base_hirarki bhr
 
         UNION ALL
 
@@ -84,10 +84,10 @@ GO
 CREATE OR ALTER VIEW view_hirarki AS
 WITH hirarki AS (
     SELECT
-        hwdp.posisi_id_sap AS anchor,
-        hwdp.*,
+        bhr.posisi_id_sap AS anchor,
+        bhr.*,
         0 AS lvl
-    FROM view_base_hirarki hwdp
+    FROM view_base_hirarki bhr
 
     UNION ALL
 

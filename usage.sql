@@ -1,6 +1,6 @@
 USE tmp_data_pegawai;
 
--- Data Pegawai
+-- Data Pribadi
 SELECT * FROM view_data_pribadi;
 
 -- Jabatan
@@ -19,3 +19,6 @@ SELECT * FROM view_pendidikan;
 SELECT * FROM view_hirarki;     -- ? View: Fix 8 Level Column
 
 EXEC get_all_hirarki;           -- ? Procedure: Dynamic Column
+
+-- Pegawai CV
+SELECT * FROM view_pegawai_cv;
